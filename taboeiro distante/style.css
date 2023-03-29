@@ -1,5 +1,7 @@
 .body{
-   background-image:linear-gradient(to bottom, white, green)
+   background-image:linear-gradient(to bottom, white, green);
+   background-attachment: fixed;
+
  
 }
 .cabeçalho{

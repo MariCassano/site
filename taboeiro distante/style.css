@@ -3,6 +3,9 @@
    background-attachment: fixed;
    color: white;
    display: flex;
+   justify-content:center;
+   align-items:center;
+   padding:24px 0;
 
  
 }
@@ -21,4 +24,11 @@
 *{
     margin:0;
     padding: 0;
+}
+.escola-conteúdo {
+   width:35%;
+}
+.escola-titulo{
+   padding:24px 0;
+
 }

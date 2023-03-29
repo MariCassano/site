@@ -1,4 +1,7 @@
-
+.body{
+   background-image:linear-gradient(to bottom, white, green)
+ 
+}
 .cabeçalho{
     background-color: rgba(30, 119, 30, 0.867);
     color: white;

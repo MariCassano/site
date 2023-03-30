@@ -9,14 +9,14 @@
 
  
 }
-.cabeçalho{
+.cabecalho{
     background-color: rgba(30, 119, 30, 0.867);
     color: white;
     display: flex;
     justify-content: space-around;
     padding: 24px;
 }
-.cabeçalho-lista-item{
+.cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     padding: 24px;
